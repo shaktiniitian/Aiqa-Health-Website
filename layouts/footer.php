@@ -13,7 +13,7 @@
             <div class="col-lg-3 col-6 footer-links">
                 <h4>Useful Links</h4>
                 <ul>
-                    <li><a href="/home">home</a></li>
+                    <li><a href="/#home">home</a></li>
                     <li><a href="#contact">plans</a></li>
                     <li><a href="#download">downloads</a></li>
 
