@@ -20,8 +20,8 @@
     <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="http://kenwheeler.github.io/slick/slick/slick-theme.css" />
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/slick/slick-theme.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/slick/slick.css" />
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y1YSGQLD3X"></script>
@@ -501,99 +501,16 @@
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
             class="bi bi-arrow-up-short"></i></a>
     <!-- Vendor JS Files -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-
+    <script src="assets/js/slick/jquery.min.js"></script>
     <script src="assets/vendor/purecounter/purecounter.js"></script>
     <script src="assets/vendor/aos/aos.js"></script>
     <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script type="text/javascript" src="assets/js/slick/slick.min.js"></script>
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
     <script src="assets/js/jquery.validate.js"></script>
-    <script>
+    <script src="assets/js/validation.js"></script>
 
-        function lead() {
-
-            $('.loader').show();
-            $('.callback').hide();
-            $('.danger').hide();
-
-
-
-            var myKeyVals = {
-                name: $('#name').val(),
-                email: $('#email').val(),
-                mobile: $('#mobile').val(),
-                type: 'business'
-            }
-            $.ajax({
-                type: 'POST',
-                url: "https://aiqahealth.doctoroncall.org/api/lead",
-                data: myKeyVals,
-                dataType: "text",
-                success: function (resultData) {
-                    $("#myModal").modal('show');
-                    setTimeout(function () {
-                        $("#myModal").modal('hide');
-                        $('#contactForm input').val('');
-                    }, 3000);
-                    $('.loader').hide();
-                    $('.callback').show();
-                    $(".success").show()
-
-                },
-                error: function (error, textStatus, errorThrown) {
-                    // var response = JSON.parse(error.responseText);
-                    // response = response.message;
-                    $(".danger").show()
-                    $('.loader').hide();
-                    $('.callback').show();
-
-                }
-            });
-
-
-        }
-
-        $.validator.setDefaults({
-            submitHandler: function () {
-
-                $('.callback').hide();
-                lead();
-            }
-        });
-
-
-
-        $().ready(function () {
-            $('.loader').hide();
-            $('.success').hide();
-            $('.danger').hide();
-
-            $("#contactForm").validate({
-                rules: {
-                    website: "required",
-                    name: {
-                        required: true,
-                        minlength: 3
-                    },
-                    email: {
-                        required: true,
-                        minlength: 2
-                    },
-
-                    mobile: {
-                        required: true,
-                        minlength: 10,
-                        maxlength: 10
-                    },
-
-                }
-
-
-            });
-        })
-    </script>
 
 </body>
 
