@@ -46,7 +46,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 order-1 d-flex flex-column justify-content-center banner-heading">
-                    <h1 data-aos="fade-up">sampoorna swasthya surakhsha, sirf <span class="custom_css">₹3</span> per day
+                    <h1 data-aos="fade-up">sampoorna swasthya suraksha, sirf <span class="custom_css">₹3</span> per day
                         se shuru</h1>
 
                     <div data-aos="fade-up" data-aos-delay="600">
@@ -175,8 +175,8 @@
                 <a href="#contact"  class="btn btn-danger custom_btn">
                     <span> call back paayein</span>
 
-
-                    <span><img src="assets/img/Vector.svg"></span></a>
+                    <!-- <span><img src="assets/img/Vector.svg"></span> -->
+                </a>
 
             </div>
 
@@ -192,7 +192,7 @@
             <div class="container" data-aos="fade-up">
 
                 <header class="section-header">
-                    <p>financial suraksha in 4 easy easy steps mein</p>
+                    <p>financial suraksha 4 easy steps mein</p>
                 </header>
 
                 <div class="row justify-content-center items">
