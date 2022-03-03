@@ -4,9 +4,19 @@
     <div class="container">
         <div class="row gy-4 justify-content-center">
             <div class="col-lg-3 col-md-12 footer-info">
-                <a href="/" class="logo d-flex align-items-center">
+                <a href="/" class="logo">
                     <img src="assets/img/logo.png" alt="">
                 </a>
+               <p>
+                    Doctor on call, 5th floor, tower b, sas tower, sector 38, gurugram, haryana 122001
+</p>
+  
+                    <ul>
+                    <li><a href="#">Phone: +91 6262 306 306</a></li>
+                    <li><a href="#">email: care@aiqahealth.com</a></li>
+
+                </ul>
+
 
             </div>
 
