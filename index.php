@@ -236,7 +236,7 @@
 
                     <span>
 
-                        <img src="assets/img/Vector.svg"></span>
+                        <!-- <img src="assets/img/Vector.svg"></span> -->
                     </a>
             </div>
 
@@ -290,6 +290,116 @@
                 </header>
 
                 <div class="row mt-2 row-cols-md-3 main_border" data-aos="fade-left">
+
+<div class="col" data-aos="zoom-in" data-aos-delay="100">
+    <div class="bg-white pricing-box-white">
+
+    <table class="table">
+
+        <tbody>
+        <tr ><th>offerings</th></tr>
+
+        <tr class="brt-0" style="border-top:none"><td class="brt-0 ">price</td></tr>
+        <tr><td>doctor consults</td></tr>
+        <tr><td>medicines & lab tests</td></tr>
+        <tr><td>bills required</td></tr>
+        <tr><td>claim process</td></tr>
+        <tr><td>accidental coverage</td></tr>
+        <tr><td>fitness tracking</td></tr>
+
+        </tbody>
+</table>
+
+    </div>
+</div>
+
+<div class="col" data-aos="zoom-in" data-aos-delay="200">
+    <div class="pricing-box-white bg-grey">
+    <table class="table text-center">
+
+        <tbody>
+        <tr ><th class="text-grey">standard health insurance</th></tr>
+
+        <tr><td>expensive, starts from ₹5000/year</td></tr>
+        <tr><td>Paid</td></tr>
+        <tr><td>Paid</td></tr>
+        <tr><td>bills required</td></tr>
+        <tr><td>difficult and time taking</td></tr>
+        <tr><td><i class="bi bi-x-circle-fill theme-color h5"></td></tr>
+        <tr><td><i class="bi bi-x-circle-fill theme-color h5"></td></tr>
+
+        </tbody>
+</table>
+        <!-- <h3>standard health insurance </h3>
+        <ul>
+            <li>expensive, starts from ₹5000/year
+            </li>
+            <li>Paid</li>
+            <li>Paid
+            </li>
+            <li>bills required
+            </li>
+            <li>difficult and time taking
+            </li>
+            <li><i class="bi bi-x-circle-fill theme-color h5"></i>
+            </li>
+            <li><i class="bi bi-x-circle-fill theme-color h5"></i>
+            </li>
+
+        </ul> -->
+    </div>
+</div>
+
+<div class="col" data-aos="zoom-in" data-aos-delay="300">
+    <div class="bg-red pricing-box-red">
+
+    <table class="table text-white text-center">
+
+        <tbody>
+        <tr><th>aiqahealth</th></tr>
+
+        <tr><td>affordable, starts from ₹40/week
+</td></tr>
+        <tr><td>unlimited free
+</td></tr>
+        <tr><td>25%+ discounts
+</td></tr>
+        <tr><td>no bills required
+</td></tr>
+<tr><td>quick approval</td></tr>
+<tr><td>1lac-10lac
+</td></tr>
+<tr><td>digital app
+</td></tr>
+
+        </tbody>
+</table>
+        <!-- <h3>aiqahealth
+        </h3>
+        <ul>
+            <li>affordable, starts from ₹40/week
+            </li>
+            <li>unlimited free
+            </li>
+            <li>25%+ discounts
+            </li>
+            <li>no bills required
+            </li>
+            <li>quick approval
+            </li>
+            <li>1lac-10lac
+            </li>
+            <li>digital app
+            </li>
+
+        </ul> -->
+    </div>
+</div>
+
+
+</div>
+
+                <!-- <div class="row mt-2 row-cols-md-3 main_border" data-aos="fade-left">
 
                     <div class="col" data-aos="zoom-in" data-aos-delay="100">
                         <div class="box bgwhite_box">
@@ -354,7 +464,9 @@
                     </div>
 
 
-                </div>
+                </div> -->
+
+
 
             </div>
 
