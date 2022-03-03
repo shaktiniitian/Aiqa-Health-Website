@@ -348,6 +348,8 @@ section {
 
 .header .logo img {
   margin-right: 6px;
+  width: 180px;
+  height: 60px;
 }
 
 .header .logo span {
@@ -364,7 +366,8 @@ section {
     padding: 5px !important;
   }
   .header .logo img {
-    max-height: 45px !important;
+    max-height: 60px !important;
+    width: 100%;
   }
 }
 
@@ -2497,6 +2500,7 @@ hr {
   margin-right: 6px;
   position: relative;
   bottom: 43px;
+  width: 180px;
 }
 
 .footer .footer-top .footer-info .logo span {

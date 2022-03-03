@@ -84,7 +84,7 @@
                     <div class="col br-1">
                         <div class="count-box">
                             <div class="text-center">
-                                <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1"
+                                <span data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1"
                                     class="purecounter"></span><span>MN+</span>
                                 <p>customers</p>
                             </div>
@@ -164,7 +164,7 @@
                     <div class="col-lg-6 content aos-init aos-animate" data-aos="fade-left" data-aos-delay="100">
                         <h2>accident me paiso ki fikar nahi </h2>
                         <ul>
-                            <li><i class="bi bi-check2-circle"></i> 10 lac Rs. tak surakhsit</li>
+                            <li><i class="bi bi-check2-circle"></i>&#8377;10 lac. tak surakhsit</li>
                             <li><i class="bi bi-check2-circle"></i>covers disability and death </li>
                         </ul>
 

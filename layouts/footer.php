@@ -5,7 +5,7 @@
         <div class="row gy-4 justify-content-center">
             <div class="col-lg-3 col-md-12 footer-info">
                 <a href="/" class="logo d-flex align-items-center">
-                    <img src="assets/img/logo.svg" alt="">
+                    <img src="assets/img/logo.png" alt="">
                 </a>
 
             </div>
