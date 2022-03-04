@@ -84,8 +84,8 @@
                     <div class="col br-1">
                         <div class="count-box">
                             <div class="text-center">
-                                <span data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1"
-                                    class="purecounter"></span><span>MN+</span>
+                                <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1"
+                                    class="purecounter"></span><span>lac</span>
                                 <p>customers</p>
                             </div>
                         </div>
@@ -94,9 +94,9 @@
                     <div class="col br-1">
                         <div class="count-box">
                             <div class="text-center">
-                                <span data-purecounter-start="0" data-purecounter-end="4" data-purecounter-duration="1"
-                                    class="purecounter"></span><span>MN+</span>
-                                <p>doctors consultss</p>
+                                <span data-purecounter-start="0" data-purecounter-decimals="2" data-purecounter-end="2.5" data-purecounter-duration="1"
+                                    class="purecounter"></span><span>cr</span>
+                                <p>doctor consults</p>
                             </div>
                         </div>
                     </div>
@@ -249,7 +249,7 @@
             <div class="container" data-aos="fade-up">
 
                 <header class="section-header">
-                    <p>get the aiqahealth app for your mobile device</p>
+                    <p class="pb-28">get the aiqahealth app for your mobile device</p>
                     <h2>download now</h2>
                 </header>
 
