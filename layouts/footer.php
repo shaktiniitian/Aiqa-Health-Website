@@ -8,11 +8,11 @@
                     <img src="assets/img/logo.png" alt="">
                 </a>
                <p>
-                    Doctor on call, 5th floor, tower b, sas tower, sector 38, gurugram, haryana 122001
+               hospido private limited, 5th floor, tower b, sas tower, sector 38, gurugram, haryana 122001
 </p>
-  
+
                     <ul>
-                    <li><a href="#">Phone: +91 6262 306 306</a></li>
+                    <li><a href="#">Phone: +91 05556666</a></li>
                     <li><a href="#">email: care@aiqahealth.com</a></li>
 
                 </ul>

@@ -10,7 +10,7 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/favicon.ico" rel="icon">
 
     <!-- Google Fonts -->
     <link href='https://fonts.googleapis.com/css?family=Rubik' rel='stylesheet'>
