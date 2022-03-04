@@ -94,7 +94,7 @@
                     <div class="col br-1">
                         <div class="count-box">
                             <div class="text-center">
-                                <span data-purecounter-start="0" data-purecounter-decimals="2" data-purecounter-end="2.5" data-purecounter-duration="1"
+                                <span data-purecounter-start="0" data-purecounter-decimals="1" data-purecounter-end="2.5" data-purecounter-duration="1"
                                     class="purecounter"></span><span>cr</span>
                                 <p>doctor consults</p>
                             </div>
