@@ -12,8 +12,8 @@
 </p>
 
                     <ul>
-                    <li><a href="#">Phone: +91 05556666</a></li>
-                    <li><a href="#">email: care@aiqahealth.com</a></li>
+                    <li><a href="tel:+919105556666">Phone: +91  91055 56666</a></li>
+                    <li><a href="mailto:care@aiqahealth.com">email: care@aiqahealth.com</a></li>
 
                 </ul>
 
