@@ -5,7 +5,7 @@
     <meta property="og:title" content="sampoorna swasthya suraksha, sirf ₹3 per day se shuru" />
     <meta property="og:type" content="image" />
     <meta property="og:url" content="https://aiqahealth.com/" />
-    <meta property="og:image" content="https://parallelcap.in/assets/img/topimahe.png" />
+    <meta property="og:image" content="https://parallelcap.in/assets/img/top-image.png" />
 
 <header id="header" class="header fixed-top">
         <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
