@@ -1,11 +1,3 @@
-<meta content="aiqahealth" name="description">
-    <meta
-        content="sampoorna swasthya suraksha, sirf ₹3 per day se shuru"
-        name="keywords">
-    <meta property="og:title" content="sampoorna swasthya suraksha, sirf ₹3 per day se shuru" />
-    <meta property="og:type" content="image" />
-    <meta property="og:url" content="https://aiqahealth.com/" />
-    <meta property="og:image" content="https://aiqahealth.com/assets/img/top-image.png" />
 
 <header id="header" class="header fixed-top">
         <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
