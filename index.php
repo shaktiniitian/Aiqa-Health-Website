@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
+    <link href="assets/img/favicon.ico" rel="icon">
     <title>aiqahealth</title>
     <meta content="sampoorna swasthya suraksha, sirf ₹3 per day se shuru" name="description">
     <meta content="sampoorna swasthya suraksha, sirf ₹3 per day se shuru"
@@ -16,7 +16,6 @@
 
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.ico" rel="icon">
 
     <!-- Google Fonts -->
     <link href='https://fonts.googleapis.com/css?family=Rubik' rel='stylesheet'>
@@ -261,8 +260,8 @@
 
                 <div class="row store text-center justify-content-center row-cols-1 pb-4">
                     <div class="col">
-                        <a href="#"><img src="assets/img/google-play.svg" class="img-fluid"></a>
-                        <a href="#"><img src="assets/img/apple.svg" class="img-fluid"></a>
+                        <a href="https://play.google.com/store/apps/details?id=com.aiqahealth" target="_blank"><img src="assets/img/google-play.svg" class="img-fluid"></a>
+                        <a href="https://apps.apple.com/in/app/aiqahealth/id1588240478" target="_blank"><img src="assets/img/apple.svg" class="img-fluid"></a>
                     </div>
                 </div>
 

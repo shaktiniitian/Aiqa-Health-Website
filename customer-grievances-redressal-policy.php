@@ -4,9 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <link href="assets/img/favicon.ico" rel="icon">
 
-    <title>aiqahealth|customer grievances redressal policy
-    </title>
+    <title>aiqahealth|customer grievances redressal policy    </title>
     <meta content="sampoorna swasthya suraksha, sirf ₹3 per day se shuru" name="description">
     <meta content="sampoorna swasthya suraksha, sirf ₹3 per day se shuru"
         name="keywords">
@@ -16,7 +16,6 @@
     <meta property="og:image" content="https://aiqahealth.com/assets/img/top-image.png" />
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.ico" rel="icon">
 
     <!-- Google Fonts -->
     <link href='https://fonts.googleapis.com/css?family=Rubik' rel='stylesheet'>
