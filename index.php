@@ -7,12 +7,15 @@
     <link href="assets/img/favicon.ico" rel="icon">
     <title>aiqahealth</title>
     <meta content="sampoorna swasthya suraksha, sirf ₹3 per day se shuru" name="description">
-    <meta content="sampoorna swasthya suraksha, sirf ₹3 per day se shuru"
-        name="keywords">
+    <meta content="sampoorna swasthya suraksha, sirf ₹3 per day se shuru" name="keywords">
     <meta property="og:title" content="sampoorna swasthya suraksha, sirf ₹3 per day se shuru" />
     <meta property="og:type" content="image" />
     <meta property="og:url" content="https://aiqahealth.com/" />
     <meta property="og:image" content="https://aiqahealth.com/assets/img/top-image.png" />
+    <meta name="twitter:title" content="sampoorna swasthya suraksha, sirf ₹3 per day se shuru">
+    <meta name="twitter:description" content="sampoorna swasthya suraksha, sirf ₹3 per day se shuru">
+    <meta name="twitter:image" content="https://aiqahealth.com/assets/img/top-image.png">
+    <meta name="twitter:card" content="summary_large_image">
 
 
     <!-- Favicons -->
