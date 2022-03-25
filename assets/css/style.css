@@ -3037,7 +3037,7 @@ hr {
     min-height: 70px;
     line-height: 22px;
     height: 72px;
-    font-size: 14px;
+    font-size: 12px;
     padding: 0px !important;
     vertical-align: middle;
   }
@@ -3045,8 +3045,14 @@ hr {
     min-height: 70px;
     line-height: 20px;
     height: 100px;
+    font-size: 14px;
     padding: 0px !important;
     vertical-align: middle;
+  }
+  .pricing-box-white,
+  .pricing-box-grey,
+  .pricing-box-red {
+    padding: 4px !important;
   }
 }
 
