@@ -3060,11 +3060,12 @@ hr {
   th,
   td {
     font-size: 12px;
+    word-wrap: break-word;
   }
   .pricing-box-white,
   .pricing-box-grey,
   .pricing-box-red {
-    padding: 2px !important;
+    padding: 4px !important;
   }
 }
 
