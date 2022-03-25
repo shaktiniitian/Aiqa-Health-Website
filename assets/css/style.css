@@ -3056,6 +3056,18 @@ hr {
   }
 }
 
+@media (max-width: 500px) {
+  th,
+  td {
+    font-size: 12px;
+  }
+  .pricing-box-white,
+  .pricing-box-grey,
+  .pricing-box-red {
+    padding: 2px !important;
+  }
+}
+
 .form-box {
   background: #fff;
   box-shadow: 0px 0 30px rgb(1 41 112 / 8%);
