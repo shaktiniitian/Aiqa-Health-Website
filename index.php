@@ -297,7 +297,7 @@
                     </p>
                 </header>
 
-                <div class="row mt-2 row-cols-md-3 main_border" data-aos="fade-left">
+<div class="row mt-2 row-cols-md-3 row-cols-3 main_border" data-aos="fade-left">
 
 <div class="col" data-aos="zoom-in" data-aos-delay="100">
     <div class="bg-white pricing-box-white">
