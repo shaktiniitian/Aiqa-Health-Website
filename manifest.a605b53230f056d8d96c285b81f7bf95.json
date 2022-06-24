@@ -1,0 +1,10 @@
+{
+  "name": "aiqa health",
+  "short_name": "aiqa health",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Aiqa health Web App For User",
+  "background_color": "#fafafa",
+  "theme_color": "#b1624d"
+}
