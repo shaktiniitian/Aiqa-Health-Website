@@ -1,0 +1,6 @@
+﻿User-Agent: *
+Disallow: 
+Allow: /
+
+
+Sitemap: https://aiqahealth.com/sitemap.xml
